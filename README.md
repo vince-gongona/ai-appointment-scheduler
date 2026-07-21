@@ -1,6 +1,6 @@
 # AI Appointment Scheduler
 
-An AI-powered appointment scheduling workflow built with n8n that validates booking requests, checks calendar availability, creates appointments automatically, logs bookings, and sends confirmation emails.
+An AI-powered appointment scheduling solution built with n8n using two workflows: an AI Receptionist that handles customer conversations and an AI Calendar Specialist that validates availability, creates bookings, and sends confirmations.
 
 ---
 
